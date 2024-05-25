@@ -84,7 +84,7 @@ zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalh
 
 ## Vamos trabalhar juntos no seu projeto!
 
-<blockquote>Se quiser entrar em contato comigo, envie-me um e-mail clicando aqui</blockquote>
+<blockquote>Se quiser entrar em contato comigo, envie-me um e-mail <a href="mailto:octavio.a.k95@gmail.com">clicando aqui</a></blockquote>
 
   </td>
   <td width="50%" valign="top">
