@@ -33,7 +33,7 @@ estudante="ADS - Analise e desenvolvimento de sistemas"
 linguagens="Html, Css, Phyton, e JavaScript"
 idiomas=("pt_br" "es_ES")
  
-message="Ola, Eu sou $nome, um $estudante e eu programo em $linguagens eu falo:"
+message="Ola, Eu sou $nome, um estudante de $estudante e eu programo em $linguagens eu falo:"
 
 for idiomas in "${idiomas[@]}"
 do
