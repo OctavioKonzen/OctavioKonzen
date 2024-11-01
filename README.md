@@ -1,21 +1,26 @@
 <h1>~ Ola, mundo ~</h1>
 
-```shell
-#!/bin/bash
+```import javax.swing.JOptionPane;
 
-nome="Octavio"
-profissional="Estudante"
-linguagens="MySQL, C, C++, Python"
-idiomas=("pt_BR")
- 
-message="Ola, Eu sou $nome, um $profissional e eu programo em $linguagens eu falo:"
+public class Apresentacao {
+    public static void main(String[] args) {
+        String nome = "Octavio";
+        String profissional = "Estudante";
+        String linguagens = "MySQL, C, C++, Python";
+        String[] idiomas = {"pt_BR"};
 
-for idiomas in "${idiomas[@]}"
-do
-message="$message\n- $idiomas"
-done
+        StringBuilder message = new StringBuilder("Ola, Eu sou " + nome + ", um " + profissional + " e eu programo em " + linguagens + " eu falo:");
 
-zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalho"
+        for (String idioma : idiomas) {
+            message.append("\n- ").append(idioma);
+        }
+
+        message.append("\n\nObrigado por vir, espero que goste do meu trabalho");
+
+        JOptionPane.showMessageDialog(null, message.toString(), "Apresentação", JOptionPane.INFORMATION_MESSAGE);
+    }
+}
+
 
 ```
 <h2> ~ Sobre mim ~ </h2>
