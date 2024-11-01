@@ -43,7 +43,7 @@ Passatenpos: Filmes, Series, Musicas, Jogos RPG
 ![Css](https://img.shields.io/badge/CSS-121011?&style=for-the-badge&logo=css3&logoColor=white) <br>
 ![Windows](https://img.shields.io/badge/WINDOWS-121011?style=for-the-badge&logo=windows&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-121011?style=for-the-badge&logo=javascript&logoColor=white)
-![Gi](https://img.shields.io/badge/GIT-121011?style=for-the-badge&logo=git&logoColor=white))
+![Git](https://img.shields.io/badge/GIT-121011?style=for-the-badge&logo=git&logoColor=white)
 
 
 **Ferramentas de desenvolvimento**
@@ -54,6 +54,8 @@ Passatenpos: Filmes, Series, Musicas, Jogos RPG
   Acho que é muito importante ter um ciclo de feedback, 
 onde você pensa constantemente sobre o que fez e como poderia fazer melhor.
   </pre>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OctavioKonzen&bg_color=0d1117&color=b4befe&line=7f849c&point=cdd6f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Onde me encontrar
 
