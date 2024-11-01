@@ -54,7 +54,12 @@ Passa tenpos: Jogos Filmes e Series
 onde você pensa constantemente sobre o que fez e como poderia fazer melhor.
   </pre>
   
-![Octavio Konzen GitHub stats](https://github-readme-stats.vercel.app/api?username=OctavioKonzen\&rank_icon=percentile)
+<h2 align="center" style="color: #4CAF50;">~ Estatísticas ~</h2>
+
+<div style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; background-color: #f9f9f9; margin: 10px 0; text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=OctavioKonzen&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Octavio">
+</div>
+
 
 ## Onde me encontrar
 
