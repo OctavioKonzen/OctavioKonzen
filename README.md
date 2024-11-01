@@ -2,6 +2,27 @@
 
 ## Sobre mim
 
+```shell
+#!/bin/bash
+
+nome="Octavio"
+profissional="Estudante"
+linguagens="MySQL, C, C++, Python"
+idiomas=("pt_BR")
+ 
+message="Ola, Eu sou $nome, um $profissional e eu programo em $linguagens eu falo:"
+
+for idiomas in "${idiomas[@]}"
+do
+message="$message\n- $idiomas"
+done
+
+zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalho"
+
+```
+
+
+
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando ADS na Tuiuti.
 - 🌱 Aprendendo mais sobre Programacao.
