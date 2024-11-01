@@ -50,7 +50,10 @@ Passatenpos: Filmes, Series, Musicas, Jogos RPG
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
+<pre>
+  Acho que é muito importante ter um ciclo de feedback, 
+onde você pensa constantemente sobre o que fez e como poderia fazer melhor.
+  </pre>
 
 ## Onde me encontrar
 
