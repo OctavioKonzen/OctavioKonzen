@@ -29,7 +29,7 @@
 <br/>
 
 <a href="[https://github.com/OctavioKonzen](https://github.com/OctavioKonzen)" title="Perfil do Octavio Konzen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Octavio Konzen&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OctavioKozen&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
