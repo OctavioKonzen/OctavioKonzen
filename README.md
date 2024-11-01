@@ -21,12 +21,11 @@ zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalh
 ```
 
 
-
+<pre>
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando ADS na Tuiuti.
 - 🌱 Aprendendo mais sobre Programacao.
-
-## Minhas Skills
+</pre>
 
 <h2> ~ Sobre mim ~ </h2>
 <pre>
