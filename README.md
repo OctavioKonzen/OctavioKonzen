@@ -1,5 +1,4 @@
-
-## Sobre mim
+<h1 align="center">~ Ola, mundo ~</h1>
 
 ```shell
 #!/bin/bash
@@ -19,6 +18,8 @@ done
 zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalho"
 
 ```
+<h2> ~ Sobre mim ~ </h2>
+
 <pre>
 NOMEE: Octavio
 SISTEMA OPERACIONAL: OpenSuse Tumbleweed
