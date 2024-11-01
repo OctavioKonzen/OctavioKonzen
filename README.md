@@ -44,10 +44,6 @@ Passatenpos: Filmes, Series, Musicas, Jogos RPG
 ![Git](https://img.shields.io/badge/GIT-121011?style=for-the-badge&logo=git&logoColor=white)
 
 
-<h2 align="center"> ~ Ferramentas de desenvolvimento ~ </h2>
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
 <pre>
   Acho que é muito importante ter um ciclo de feedback, 
 onde você pensa constantemente sobre o que fez e como poderia fazer melhor.
