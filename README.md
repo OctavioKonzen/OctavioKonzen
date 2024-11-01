@@ -31,7 +31,7 @@ zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalh
 <h2> ~ Sobre mim ~ </h2>
 <pre>
 NOMEE: Octavio
-SISTEMA OPERACIONAL: OpenSuse Tumbleweedt
+SISTEMA OPERACIONAL: OpenSuse Tumbleweed
 Passatenpos: Filmes, Series, Musicas, Jogos RPG
 </pre>
 
