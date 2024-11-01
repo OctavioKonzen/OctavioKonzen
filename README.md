@@ -1,117 +1,49 @@
-<p align="right"> </p>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-<div align="center">
+## Sobre mim
 
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando {seu curso} no {faculdade}.
+- 🌱 Aprendendo mais sobre {Programacao}.
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+## Minhas Skills
 
-<details>
-<summary>Abrir Perfil</summary>
+**Aplicações e dados**
 
-[comment]: <> (View Counter)
-<br>
-<div>
-  <div align=center>
-  </div>
-  <div align=center>
-      
-  </div>
-</div>
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<details>
-<summary>Sobre mim</summary>
+**Utilidades**
 
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-<div align="left">
+**DevOps**
 
-```shell
-#!/bin/bash
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
-nome="Octavio"
-estudante="ADS - Analise e desenvolvimento de sistemas"
-linguagens="Html, Css, Phyton, e JavaScript"
-idiomas=("pt_br" "es_ES")
- 
-message="Ola, Eu sou $nome, um estudante de $estudante e eu programo em $linguagens eu falo:"
+**Ferramentas de desenvolvimento**
 
-for idiomas in "${idiomas[@]}"
-do
-message="$message\n- $idiomas"
-done
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalho"
+<br/>
 
-```
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
 
-</div>
+## Onde me encontrar
 
-</details>
-
-<details>
-<summary>Ferramentas</summary>
-<div>
-  <p style="display: inline-block;" align="center">
-    <kbd>
-      <kbd>Linguagens</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    </kbd>
-  </p>
-</div>
-</details>
-
-<details>
-  <summary>Citações</summary>
-  <br>
-  Uma das minhas citações favoritas
-  <blockquote>
-    “Existem três coisas que não podem ser interrompidas: o sonho dos homens, o fluxo do tempo e a vontade herdada”
-    <br><strong>Gol D. Roger / One Piece</strong>
-  </blockquote>
-</details>
-
-<details>
-<summary>O que posso fazer para você?</summary>
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
-
-## Vamos trabalhar juntos no seu projeto!
-
-<blockquote>Se quiser entrar em contato comigo, envie-me um e-mail <a href="mailto:octavio.a.k95@gmail.com">clicando aqui</a></blockquote>
-
-  </td>
-  <td width="50%" valign="top">
-
-## Não é perfeito, não é?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-<blockquote>“Acho que é muito importante ter um ciclo de feedback, onde você pensa constantemente sobre o que fez e como poderia fazer melhor.”
-<br><strong>– Elon Musk</strong></blockquote>
-
-  </td>
-  </tr>
-</table>
-</details>
-
-</details>
-
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
-</div>
-
-<div align=center>
-  <a href="https://www.linkedin.com/in/octavio-konzen-4684a522b/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <a href="mailto:octavio.a.k95@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-</div>
-
------
-Credits: [Austinae](https://github.com/Austinae)
-Last Edited on: 23/12/2022
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
