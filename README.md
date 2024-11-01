@@ -19,7 +19,11 @@ done
 zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalho"
 
 ```
-
+<pre>
+NOMEE: Octavio
+SISTEMA OPERACIONAL: OpenSuse Tumbleweed
+Passatenpos: Filmes, Series, Musicas, Jogos RPG
+</pre>
 
 <pre>
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -27,12 +31,7 @@ zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalh
 - 🌱 Aprendendo mais sobre Programacao.
 </pre>
 
-<h2> ~ Sobre mim ~ </h2>
-<pre>
-NOMEE: Octavio
-SISTEMA OPERACIONAL: OpenSuse Tumbleweed
-Passatenpos: Filmes, Series, Musicas, Jogos RPG
-</pre>
+
 
 **Aplicações e dados**
 
