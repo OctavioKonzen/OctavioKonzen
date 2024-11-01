@@ -8,6 +8,13 @@
 
 ## Minhas Skills
 
+<h2> ~ Sobre mim ~ </h2>
+<pre>
+NOMEE: Octavio
+SISTEMA OPERACIONAL: OpenSuse Tumbleweedt
+Passatenpos: Filmes, Series, Musicas, Jogos RPG
+</pre>
+
 **Aplicações e dados**
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -26,11 +33,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-<br/>
-
-<a href="[https://github.com/OctavioKonzen](https://github.com/OctavioKonzen)" title="Perfil do Octavio Konzen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Octavio&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
