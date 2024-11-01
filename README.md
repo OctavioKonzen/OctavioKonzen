@@ -17,17 +17,12 @@ Passatenpos: Filmes, Series, Musicas, Jogos RPG
 
 **Aplicações e dados**
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Html](https://img.shields.io/badge/HTML-121011?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Linux](https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white)
+![Html](https://img.shields.io/badge/HTML-121011?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS-121011?&style=for-the-badge&logo=css3&logoColor=white) <br>
 ![Windows](https://img.shields.io/badge/WINDOWS-121011?style=for-the-badge&logo=windows&logoColor=white)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Javascript](https://img.shields.io/badge/JavaScript-121011?style=for-the-badge&logo=javascript&logoColor=white)
+![Gi](https://img.shields.io/badge/GIT-121011?style=for-the-badge&logo=git&logoColor=white))
 
 
 **Ferramentas de desenvolvimento**
