@@ -18,7 +18,7 @@ done
 zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalho"
 
 ```
-<h2> ~ Sobre mim ~ </h2>
+<h2 align="center"> ~ Sobre mim ~ </h2>
 
 <pre>
 NOMEE: Octavio
@@ -34,7 +34,7 @@ Passatenpos: Filmes, Series, Musicas, Jogos RPG
 
 
 
-**Aplicações e dados**
+<h2 align="center">> ~  Habilidades  ~</h2>
 
 ![Linux](https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML-121011?style=for-the-badge&logo=html5&logoColor=white)
