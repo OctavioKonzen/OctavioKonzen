@@ -51,7 +51,9 @@ Desenvolvimento de software, aplicações mobile, automação e exploração de 
 
 🔧 Trabalhando com desenvolvimento de software e automação.
 
-📱 Explorando o desenvolvimento de aplicações utilizando **Flutter e Dart**.
+📱 Desenvolvendo o **PocketDex**, com app Android em **Flutter/Dart** e site em **React**.
+
+🔥 Integrando contas, comunidade e partidas online com **Firebase**.
 
 🐧 Aprimorando meus conhecimentos em **NixOS e no ecossistema Linux**.
 
@@ -88,9 +90,13 @@ Desenvolvimento de software, aplicações mobile, automação e exploração de 
 ![CSS3](https://img.shields.io/badge/CSS3-121011?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-121011?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-<h3>🗄️ Banco de Dados</h3>
+![React](https://img.shields.io/badge/React-121011?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-121011?style=for-the-badge&logo=vite&logoColor=646CFF)
+
+<h3>🗄️ Banco de Dados e Backend</h3>
 
 ![MySQL](https://img.shields.io/badge/MySQL-121011?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-121011?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 <h3>🐧 Sistemas Operacionais</h3>
 
@@ -102,6 +108,7 @@ Desenvolvimento de software, aplicações mobile, automação e exploração de 
 
 ![Git](https://img.shields.io/badge/Git-121011?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-121011?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
 </div>
 
@@ -116,47 +123,36 @@ Desenvolvimento de software, aplicações mobile, automação e exploração de 
 
 <td width="50%" valign="top">
 
-<h3 align="center">📱 Pocketdex</h3>
+<h3 align="center">📱 PocketDex</h3>
 
-<p align="center">
-  <b>Pokédex e assistente Pokémon desenvolvido em Flutter.</b>
+<p align="center"><b>Pokédex e assistente competitivo para Android e web.</b></p>
+<p align="center"><img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=flat-square" alt="Em desenvolvimento" /></p>
+
+<p>App e site sincronizados pela mesma conta, com ferramentas para explorar Pokémon, montar times, jogar e desafiar amigos.</p>
+
+<h4>✨ Funcionalidades</h4>
+<ul>
+  <li>🔎 Pokédex com formas, animações, favoritos e coleção.</li>
+  <li>⚔️ Montagem de times e ferramentas competitivas.</li>
+  <li>🎮 Batalhas online e offline; duplas e triplas com amigos e NPCs em validação.</li>
+  <li>💬 Amigos, chat e compartilhamento de times.</li>
+  <li>🏆 Quiz, Ranked, desafios e conquistas.</li>
+</ul>
+
+<h4>🛠️ Tecnologias</h4>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-121011?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-121011?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" />
+  <img src="https://img.shields.io/badge/React-121011?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Firebase-121011?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Python-121011?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-121011?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
 </p>
 
 <p align="center">
-
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=flat-square)
-
-</p>
-
-Aplicativo em desenvolvimento criado para reunir diversas ferramentas relacionadas ao universo Pokémon em uma única aplicação.
-
-### ✨ Funcionalidades
-
-- 🔎 Pokédex com pesquisa e filtros
-- 📖 Informações detalhadas dos Pokémon
-- ⚔️ Team Builder
-- 📊 EV Counter & Tracking
-- 🥚 Ferramentas para Breeding
-- ⭐ Sistema de favoritos
-- 🎮 Pokémon Quiz
-- 🌙 Tema claro e escuro
-- 🌐 Integração com PokeAPI
-
-### 🛠️ Tecnologias
-
-![Flutter](https://img.shields.io/badge/Flutter-121011?style=flat-square&logo=flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-121011?style=flat-square&logo=dart&logoColor=0175C2)
-![Android](https://img.shields.io/badge/Android-121011?style=flat-square&logo=android&logoColor=3DDC84)
-![PokeAPI](https://img.shields.io/badge/PokeAPI-121011?style=flat-square&logo=pokemon&logoColor=FFCB05)
-
-<br>
-
-<p align="center">
-
-<a href="https://github.com/OctavioKonzen/Pocketdex">
-<img src="https://img.shields.io/badge/Ver%20Projeto-Pocketdex-5277C3?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+  <a href="https://github.com/OctavioKonzen/Pocketdex"><img src="https://img.shields.io/badge/Ver%20Projeto-PocketDex-5277C3?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto PocketDex" /></a>
+  <br /><br />
+  <a href="https://octaviokonzen.github.io/Pocketdex/">🌐 Abrir site</a> · <a href="https://github.com/OctavioKonzen/Pocketdex/releases/latest">📥 Baixar APK</a>
 </p>
 
 </td>
@@ -263,8 +259,11 @@ public class Octavio {
 
     String[] tecnologias = {
         "Flutter",
+        "React",
+        "Firebase",
         "MySQL",
-        "Git"
+        "Git",
+        "GitHub Actions"
     };
 
     String[] interesses = {
