@@ -131,8 +131,7 @@ Desenvolvimento de software, aplicações mobile, automação e exploração de 
 <p>App Android e site com as mesmas telas e a mesma conta: o que você faz em um aparece no outro.</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OctavioKonzen/Pocketdex/main/docs/screenshots/app-batalha.jpg" width="30%" alt="Batalha no app" />
-  <img src="https://raw.githubusercontent.com/OctavioKonzen/Pocketdex/main/docs/screenshots/site-factory-cidade.jpg" width="62%" alt="Battle Factory no site" />
+  <img src="https://raw.githubusercontent.com/OctavioKonzen/Pocketdex/main/assets/images/poke_logo.png" width="60%" alt="Logo do PocketDex" />
 </p>
 
 <h4>✨ Funcionalidades</h4>
