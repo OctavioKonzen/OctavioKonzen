@@ -228,7 +228,7 @@ width="90%"
 <br><br>
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OctavioKonzen&theme=github_dark&v=20261020"
+src="top-langs.svg"
 width="44%"
 />
 
