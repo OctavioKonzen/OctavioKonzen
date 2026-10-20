@@ -221,19 +221,19 @@ O projeto ainda está em desenvolvimento. Novas funcionalidades e documentação
 <div align="center" style="border: 3px solid #5277C3; border-radius: 10px; padding: 20px; margin: 10px 0;">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OctavioKonzen&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OctavioKonzen&theme=github_dark&v=20261020"
 width="90%"
 />
 
 <br><br>
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OctavioKonzen&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OctavioKonzen&theme=github_dark&v=20261020"
 width="44%"
 />
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OctavioKonzen&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OctavioKonzen&theme=github_dark&v=20261020"
 width="44%"
 />
 
