@@ -229,17 +229,12 @@ width="90%"
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OctavioKonzen&theme=github_dark&v=20261020"
-width="30%"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OctavioKonzen&theme=github_dark&v=20261020"
-width="30%"
+width="44%"
 />
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OctavioKonzen&theme=github_dark&v=20261020"
-width="30%"
+width="44%"
 />
 
 </div>
