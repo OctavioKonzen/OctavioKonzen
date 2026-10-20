@@ -2,15 +2,21 @@
 <rect x="0.5" y="0.5" width="339" height="199" rx="4.5" fill="#0d1117" stroke="#e4e2e2" stroke-opacity="0.2"/>
 <text x="30" y="40" font-family="Segoe UI, Ubuntu, sans-serif" font-size="22" fill="#58a6ff">Top Languages by Code</text>
 <rect x="30" y="58" width="12" height="12" fill="#00B4AB"/>
-<text x="48" y="68" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">Dart 51.4%</text>
-<path d="M250.00 60.00 A50 50 0 1 1 245.65 159.81" fill="none" stroke="#00B4AB" stroke-width="20"/>
+<text x="48" y="68" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">Dart 38.9%</text>
+<path d="M250.00 60.00 A50 50 0 0 1 282.20 148.25" fill="none" stroke="#00B4AB" stroke-width="20"/>
 <rect x="30" y="76" width="12" height="12" fill="#F1E05A"/>
-<text x="48" y="86" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">JavaScript 38.3%</text>
-<path d="M245.65 159.81 A50 50 0 0 1 219.77 70.18" fill="none" stroke="#F1E05A" stroke-width="20"/>
-<rect x="30" y="94" width="12" height="12" fill="#3572A5"/>
-<text x="48" y="104" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">Python 9.4%</text>
-<path d="M219.77 70.18 A50 50 0 0 1 247.18 60.08" fill="none" stroke="#3572A5" stroke-width="20"/>
-<rect x="30" y="112" width="12" height="12" fill="#8b949e"/>
-<text x="48" y="122" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">Outras 0.9%</text>
-<path d="M247.18 60.08 A50 50 0 0 1 250.00 60.00" fill="none" stroke="#8b949e" stroke-width="20"/>
+<text x="48" y="86" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">JavaScript 26.1%</text>
+<path d="M282.20 148.25 A50 50 0 0 1 209.66 139.54" fill="none" stroke="#F1E05A" stroke-width="20"/>
+<rect x="30" y="94" width="12" height="12" fill="#663399"/>
+<text x="48" y="104" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">CSS 24.8%</text>
+<path d="M209.66 139.54 A50 50 0 0 1 220.05 69.96" fill="none" stroke="#663399" stroke-width="20"/>
+<rect x="30" y="112" width="12" height="12" fill="#3572A5"/>
+<text x="48" y="122" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">Python 6.6%</text>
+<path d="M220.05 69.96 A50 50 0 0 1 238.71 61.29" fill="none" stroke="#3572A5" stroke-width="20"/>
+<rect x="30" y="130" width="12" height="12" fill="#3178C6"/>
+<text x="48" y="140" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">TypeScript 2.7%</text>
+<path d="M238.71 61.29 A50 50 0 0 1 246.94 60.09" fill="none" stroke="#3178C6" stroke-width="20"/>
+<rect x="30" y="148" width="12" height="12" fill="#8b949e"/>
+<text x="48" y="158" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">Outras 1.0%</text>
+<path d="M246.94 60.09 A50 50 0 0 1 250.00 60.00" fill="none" stroke="#8b949e" stroke-width="20"/>
 </svg>
