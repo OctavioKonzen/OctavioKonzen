@@ -125,18 +125,24 @@ Desenvolvimento de software, aplicações mobile, automação e exploração de 
 
 <h3 align="center">📱 PocketDex</h3>
 
-<p align="center"><b>Pokédex e assistente competitivo para Android e web.</b></p>
+<p align="center"><b>Pokédex, assistente competitivo e jogo de batalha para Android e web.</b></p>
 <p align="center"><img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=flat-square" alt="Em desenvolvimento" /></p>
 
-<p>App e site sincronizados pela mesma conta, com ferramentas para explorar Pokémon, montar times, jogar e desafiar amigos.</p>
+<p>App Android e site com as mesmas telas e a mesma conta: o que você faz em um aparece no outro.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OctavioKonzen/Pocketdex/main/docs/screenshots/app-batalha.jpg" width="30%" alt="Batalha no app" />
+  <img src="https://raw.githubusercontent.com/OctavioKonzen/Pocketdex/main/docs/screenshots/site-factory-cidade.jpg" width="62%" alt="Battle Factory no site" />
+</p>
 
 <h4>✨ Funcionalidades</h4>
 <ul>
-  <li>🔎 Pokédex com formas, animações, favoritos e coleção.</li>
-  <li>⚔️ Montagem de times e ferramentas competitivas.</li>
-  <li>🎮 Batalhas online e offline; duplas e triplas com amigos e NPCs em validação.</li>
-  <li>💬 Amigos, chat e compartilhamento de times.</li>
-  <li>🏆 Quiz, Ranked, desafios e conquistas.</li>
+  <li>🔎 Pokédex dos 1025 Pokémon com formas, sprites animados no estilo Black &amp; White, filtros e coleção.</li>
+  <li>⚔️ Montador de times completo (golpes, item, EVs, IVs, Tera) com análise de fraquezas e nota.</li>
+  <li>🎮 Batalhas por turnos no estilo Black &amp; White: individual, dupla e tripla, contra o computador ou online com amigos.</li>
+  <li>🗺️ Battle Factory: um roguelike pela história de cada região, com mapa, capturas, cidades, chefes e melhorias.</li>
+  <li>🧮 Calculadora de dano, faixas de velocidade, tabela de tipos e Tera Raids.</li>
+  <li>💬 Amigos, chat, quiz, Ranked, desafio do dia e conquistas.</li>
 </ul>
 
 <h4>🛠️ Tecnologias</h4>
