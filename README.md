@@ -227,15 +227,7 @@ width="90%"
 
 <br><br>
 
-<img
-src="top-langs.svg"
-width="44%"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OctavioKonzen&theme=github_dark&v=20261020"
-width="44%"
-/>
+<img src="top-langs.svg" width="49%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OctavioKonzen&theme=github_dark&v=20261020" width="49%" />
 
 </div>
 
