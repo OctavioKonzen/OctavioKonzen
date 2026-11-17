@@ -3,19 +3,19 @@
 <text x="30" y="40" font-family="Segoe UI, Ubuntu, sans-serif" font-size="22" fill="#58a6ff">Top Languages by Code</text>
 <rect x="30" y="58" width="12" height="12" fill="#00B4AB"/>
 <text x="48" y="68" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">Dart 38.8%</text>
-<path d="M250.00 60.00 A50 50 0 0 1 282.32 148.15" fill="none" stroke="#00B4AB" stroke-width="20"/>
+<path d="M250.00 60.00 A50 50 0 0 1 282.28 148.19" fill="none" stroke="#00B4AB" stroke-width="20"/>
 <rect x="30" y="76" width="12" height="12" fill="#F1E05A"/>
 <text x="48" y="86" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">JavaScript 31.4%</text>
-<path d="M282.32 148.15 A50 50 0 0 1 202.25 124.85" fill="none" stroke="#F1E05A" stroke-width="20"/>
+<path d="M282.28 148.19 A50 50 0 0 1 202.23 124.76" fill="none" stroke="#F1E05A" stroke-width="20"/>
 <rect x="30" y="94" width="12" height="12" fill="#663399"/>
 <text x="48" y="104" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">CSS 16.1%</text>
-<path d="M202.25 124.85 A50 50 0 0 1 212.10 77.39" fill="none" stroke="#663399" stroke-width="20"/>
+<path d="M202.23 124.76 A50 50 0 0 1 212.13 77.36" fill="none" stroke="#663399" stroke-width="20"/>
 <rect x="30" y="112" width="12" height="12" fill="#3572A5"/>
-<text x="48" y="122" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">Python 11.3%</text>
-<path d="M212.10 77.39 A50 50 0 0 1 242.38 60.58" fill="none" stroke="#3572A5" stroke-width="20"/>
+<text x="48" y="122" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">Python 11.2%</text>
+<path d="M212.13 77.36 A50 50 0 0 1 242.39 60.58" fill="none" stroke="#3572A5" stroke-width="20"/>
 <rect x="30" y="130" width="12" height="12" fill="#3178C6"/>
 <text x="48" y="140" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">TypeScript 1.7%</text>
-<path d="M242.38 60.58 A50 50 0 0 1 247.70 60.05" fill="none" stroke="#3178C6" stroke-width="20"/>
+<path d="M242.39 60.58 A50 50 0 0 1 247.70 60.05" fill="none" stroke="#3178C6" stroke-width="20"/>
 <rect x="30" y="148" width="12" height="12" fill="#8b949e"/>
 <text x="48" y="158" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#c3d1d9">Outras 0.7%</text>
 <path d="M247.70 60.05 A50 50 0 0 1 250.00 60.00" fill="none" stroke="#8b949e" stroke-width="20"/>
